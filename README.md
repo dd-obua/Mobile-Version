@@ -8,7 +8,10 @@ Set up and mobile version skeleton
 
 ## Getting Started
 
-**In this project we are are building a portfolio website. We are starting small but it will end in something really professional**
+**In this project we are are building a portfolio website. We are starting small but it will end in something really professional***
+
+**Screen shot **
+/home/obua/Pictures/Mobile-version.png
 
 ## Authors
 

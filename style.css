@@ -68,10 +68,17 @@ header a {
 
 #name {
   color: #172b4d;
+  font-size: 40px;
+  line-height: 52px;
+  font-weight: 700;
+
 }
 
 #profession {
   color: #36b37e;
+  font-size: 40px;
+  line-height: 52px;
+  font-weight: 700;
 }
 
 .prelude {
@@ -88,7 +95,7 @@ header a {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  margin: 0 102px 60px 102px;
+  margin: 0 102px 3px 102px;
 }
 
 /* Multi-Post Stories */
@@ -99,7 +106,7 @@ ul li {
 #collapse {
   width: 40px;
   height: 40px;
-  border: 2px solid #Dfe1e6;
+  border: 2px solid #dfe1e6;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -268,7 +275,7 @@ h3 {
   margin-top: 59px;
 }
 
-.one ul  {
+.one ul {
   display: flex;
   justify-content: space-between;
   margin: 18px;
@@ -325,7 +332,6 @@ h3 {
   display: flex;
   justify-content: center;
   margin-top: 10px;
-  
 }
 
 .three .ul-2 li {
