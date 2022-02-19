@@ -1,5 +1,5 @@
 # Portfolio
-Set up and mobile version skeleton
+Mobile Version of the portfolio project
 
 ## Built With
 
@@ -11,7 +11,7 @@ Set up and mobile version skeleton
 **In this project we are are building a portfolio website. We are starting small but it will end in something really professional***
 
 **Screen shot **
-/home/obua/Pictures/Mobile-version.png
+/Desktop/project/Mobile-Version/images/Mobile-version.png
 
 ## Authors
 
