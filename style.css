@@ -88,7 +88,7 @@ header a {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  margin: 0 102px;
+  margin: 0 102px 60px 102px;
 }
 
 /* Multi-Post Stories */
@@ -96,11 +96,23 @@ ul li {
   list-style: none;
 }
 
+#collapse {
+  width: 40px;
+  height: 40px;
+  border: 2px solid #Dfe1e6;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-content: space-between;
+  align-items: center;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
 .mobile {
   margin: 0 auto;
   width: 375px;
   background: #fff;
-  padding-bottom: 48px;
 }
 
 .section {
@@ -127,7 +139,6 @@ h3 {
   margin: 0 auto;
   width: 48px;
   height: 4px;
-  margin-bottom: 62px;
 }
 
 .mobile .article {
@@ -257,24 +268,16 @@ h3 {
   margin-top: 59px;
 }
 
-.one ul {
+.one ul  {
   display: flex;
-  justify-content: center;
-  margin-top: 25px;
+  justify-content: space-between;
+  margin: 18px;
 }
 
 .one ul li {
-  display: flex;
-  align-items: center;
-  height: 30px;
+  padding: 12px;
+  border-radius: 8px;
   background-color: #fff;
-  padding: 10px;
-  border-radius: 4px;
-  margin-right: 7px;
-}
-
-.js {
-  width: 100px;
 }
 
 .two .ul-1 {
@@ -285,9 +288,8 @@ h3 {
 .two .ul-1 li {
   display: flex;
   align-items: center;
-  height: 30px;
   background-color: #fff;
-  padding: 10px;
+  padding: 12px;
   border-radius: 4px;
   margin-right: 7px;
 }
@@ -301,40 +303,33 @@ h3 {
 .two .ul-2 li {
   display: flex;
   align-items: center;
-  height: 30px;
   background-color: #fff;
-  padding: 10px;
+  padding: 12px;
   border-radius: 4px;
   margin-right: 7px;
 }
 
 .three .ul-1 {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
+  margin: 0 10px;
 }
 
 .three .ul-1 li {
-  display: flex;
-  align-items: center;
-  height: 30px;
+  padding: 10px 7px;
+  border-radius: 8px;
   background-color: #fff;
-  padding: 10px;
-  border-radius: 4px;
-  margin-right: 7px;
 }
 
 .three .ul-2 {
   display: flex;
   justify-content: center;
+  margin-top: 10px;
+  
 }
 
 .three .ul-2 li {
-  display: flex;
-  align-items: center;
-  height: 30px;
+  padding: 10px 7px;
+  border-radius: 8px;
   background-color: #fff;
-  padding: 5px;
-  border-radius: 4px;
-  margin-right: 5px;
-  margin-top: 7px;
 }
